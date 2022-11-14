@@ -1,0 +1,15 @@
+{
+  "name": "react-tabletop-board",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "catenary-curve": "^1.0.1",
+    "lazy-brush": "^1.0.1",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.25",
+    "typescript": "^4.8.4",
+    "@types/lazy-brush": "^1.0.1"
+  }
+}
